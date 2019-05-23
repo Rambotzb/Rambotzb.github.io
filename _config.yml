@@ -14,8 +14,8 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: /:year/:month/:day/:title/
 paginate: 6
 paginate_path: '/page/:num/'
-twitter_username: jekyllwriter
-github_username: jekyllwriter
+twitter_username: Rambotzb
+github_username: Rambotzb
 gems:
   - jekyll-paginate
 markdown: kramdown

@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-[Jekyll Writer](http://www.jekyllwriter.com) is a Jekyll blog site writer. You may download Jekyll Writer for Windows, OS X and Linux from our [official website](http://www.jekyllwriter.com).
+[Rambo's Blog](https://rambotzb.github.io/) is a Rambo's personal notebook, which is about machine learning and deep learning.
