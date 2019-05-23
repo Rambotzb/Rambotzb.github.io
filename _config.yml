@@ -18,5 +18,5 @@ twitter_username: jekyllwriter
 github_username: jekyllwriter
 gems:
   - jekyll-paginate
-markdown: kramdown
+markdown: markdown
 baseurl: ''
