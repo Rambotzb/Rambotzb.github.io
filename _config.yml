@@ -13,9 +13,10 @@ description: > # this means to ignore newlines until "baseurl:"
   This theme is also default theme for new site created by Jekyll Writer.
 permalink: /:year/:month/:day/:title/
 paginate: 6
-paginate_path: "/page/:num/"
+paginate_path: '/page/:num/'
 twitter_username: jekyllwriter
-github_username:  jekyllwriter
-gems: [jekyll-paginate]
-markdown: markdown
-baseurl: ""
+github_username: jekyllwriter
+gems:
+  - jekyll-paginate
+markdown: kramdown
+baseurl: ''
