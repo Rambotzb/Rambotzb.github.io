@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This theme is disigned based on Mailbox Blog, and licensed under MIT.
   This theme is also default theme for new site created by Jekyll Writer.
 permalink: /:year/:month/:day/:title/
-paginate: 6
+paginate: 10
 paginate_path: '/page/:num/'
 twitter_username: Rambotzb
 github_username: Rambotzb
